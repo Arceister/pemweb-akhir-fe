@@ -1,0 +1,76 @@
+@import url('https://fonts.googleapis.com/css?family=Poppins');
+body {
+    background-color: #333333;
+}
+
+.navbar ul {
+    list-style-type: none;
+    background-color: #444444;
+    margin: 0px 0px 0px 0px;
+    padding: 15px 20px 15px 20px;
+}
+
+.navbar li {
+    display: inline;
+}
+
+.navbar li a {
+    color: white;
+    margin: 0px 20px 0px 20px;
+    padding: 15px 20px 15px 20px;
+    text-decoration: none;
+}
+
+.navbar li a:hover {
+    background-color: antiquewhite;
+    color: black;
+}
+
+.cardview {
+    display: block;
+    background-color: #555555;
+    margin: 0px 15px 10px 15px;
+    border-style: solid;
+    border-radius: 1px;
+    border-color: black;
+}
+
+.cardview h2 {
+    color: #e7dde5;
+    font-family: 'Poppins';
+    margin-left: 25px;
+    margin-bottom: 0px;
+    margin-top: 5px;
+    text-decoration: underline;
+}
+
+.cardview p {
+    color: #e7dde5;
+    font-family: 'Poppins';
+    margin-top: 5px;
+    margin-left: 25px;
+    margin-bottom: 8px;
+}
+
+.header h2 {
+    color: antiquewhite;
+    font-family: 'Poppins';
+    margin-left: 25px;
+}
+
+.header h4 {
+    color: antiquewhite;
+    font-family: 'Poppins';
+    margin-left: 25px;
+}
+
+.header h6 {
+    color: antiquewhite;
+    font-family: 'Poppins';
+    margin-left: 25px;
+}
+
+.header a {
+    color: antiquewhite;
+    font-family: 'Poppins';
+}
